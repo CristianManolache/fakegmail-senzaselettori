@@ -1,0 +1,94 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  margin: auto;
+}
+
+/* ICON + TEXT */
+#INTRO{
+  width: 700px;
+  margin: auto;
+
+}
+
+#gtext{
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 30px;
+  font-family: helvetica;
+  color: white;
+}
+
+
+
+/* SEARCH BAR + TEXT */
+ .header{
+   font-size: 35px;
+   font-weight: 700;
+   line-height: 30px;
+   font-family: helvetica;
+   color: white;
+   padding: 10px;
+ }
+
+ #nr{
+   border: 1px  orange;
+   border-radius: 30px;
+   background-color: orange;
+   padding-top: 4px;
+ }
+
+ .star{
+   border: 2px solid black;
+   margin-left: auto;
+   margin-right: auto;
+}
+/* MID 4 LINE */
+ #lineone{
+   border: 1px solid black;
+   font-size: 20px;
+   background-color: #a5adba;
+   padding: 3px;
+   margin-bottom: 10px;
+   margin-top: -20px;
+ }
+
+ #linetwo{
+   border: 1px solid black;
+   font-size: 20px;
+   background-color: #fff;
+   padding: 3px;
+   margin-bottom: 10px;
+   margin-top: -30px;
+ }
+
+ #linethree{
+   border: 1px solid black;
+   font-size: 20px;
+   background-color: #a5adba;
+   padding: 3px;
+   margin-top: -30px;
+
+ }
+
+ #linefour{
+   border: 1px solid black;
+   font-size: 20px;
+   background-color: #a5adba;
+   padding: 3px;
+   margin-top: -20px;
+
+ }
+ /* END COPYRIGHT */
+ .end{
+   font-family: lucida;
+   font-size: 35px;
+   text-align: center;
+   color: #fff;
+ }
+
+ #powered{
+   font-style: italic;
+   font-size: 30px;
+
+ }
